@@ -1,0 +1,4 @@
+baseURL = "https://hungry-leavitt-8bd034.netlify.app"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "ananke"
